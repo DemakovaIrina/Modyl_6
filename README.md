@@ -1,2 +1,1 @@
-# Modyl_6
-Demakova_Irina_EXAMEN_06
+# Демакова Ирина ИС1-43
